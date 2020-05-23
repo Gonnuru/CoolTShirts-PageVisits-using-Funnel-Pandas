@@ -14,8 +14,8 @@ An insight to the the following dataFrames
 - **checkout**: lists all of the users who have started the checkout
 - **purchase**: lists all of the users who have purchased a t-shirt
 
-![]()
-![]()
+![](https://github.com/Gonnuru/CoolTShirts-PageVisits-using-Funnel-Pandas/blob/master/DataFrame/Dataset_1.jpg)
+![](https://github.com/Gonnuru/CoolTShirts-PageVisits-using-Funnel-Pandas/blob/master/DataFrame/Dataset_2.jpg)
 
 ## Funnel Insights
  - On an average the website can see a traffic of around **2000 users**. Registered and unregistered included. 
